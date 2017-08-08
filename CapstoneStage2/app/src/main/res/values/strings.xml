@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">CapstoneStage2</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="button_send">Send</string>
+    <string name="no_widget">No Chat</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="sign_in">Sign In::</string>
+    <string name="out">Now,you canceled sign in </string>
+    <string name="error_config">Error fetching Remote config</string>
+    <string name="class_chat"> Chat :)</string>
+    <string name="choose_image">Choose Image</string>
+    <string name="send">Send Message </string>
+    <string name="this_for_the_image_that_the_user_will_send_it_in_chat">this for the message that the user will send it in chat</string>
+    <string name="this_image_for_widget">this image for widget</string>
+
+</resources>
